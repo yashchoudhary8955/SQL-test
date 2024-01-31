@@ -21,7 +21,7 @@ Usage
 
 1) Clone the repository:
 
-git clone https://github.com/yourusername/user-registration-crud.git
+git clone https://github.com/yashchoudhary8955/user-registration-crud.git
 
 
 cd user-registration-crud
