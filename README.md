@@ -5,8 +5,7 @@ This project demonstrates basic CRUD (Create, Read, Update, Delete) operations f
 Table Structure
 The project includes a table called "Register" with the following structure:
 
-sql
-Copy code
+
 CREATE TABLE IF NOT EXISTS Register (
     ID INTEGER PRIMARY KEY AUTOINCREMENT,
     Name TEXT NOT NULL,
@@ -27,8 +26,6 @@ git clone https://github.com/yashchoudhary8955/user-registration-crud.git
 cd user-registration-crud
 Install dependencies (SQLite should be installed by default):
 
-bash
-Copy code
 # No additional dependencies
 Run the Python script:
 
