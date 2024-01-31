@@ -17,11 +17,13 @@ Requirements
 Python 3.x
 SQLite (or any other preferred SQL database)
 Usage
-Clone the repository:
 
-bash
-Copy code
+
+1) Clone the repository:
+
 git clone https://github.com/yourusername/user-registration-crud.git
+
+
 cd user-registration-crud
 Install dependencies (SQLite should be installed by default):
 
@@ -30,8 +32,7 @@ Copy code
 # No additional dependencies
 Run the Python script:
 
-bash
-Copy code
+
 python registration_crud.py
 Follow the on-screen instructions to perform CRUD operations.
 
@@ -45,18 +46,15 @@ create_record('John Doe', 'john@example.com', '1990-01-01')
 2. Read Record
 Reads a user registration record by ID.
 
-python
-Copy code
+
 read_record(1)
 3. Update Record
 Updates a user registration record by ID.
 
-python
-Copy code
+
 update_record(1, 'John Updated Doe')
 4. Delete Record
 Deletes a user registration record by ID.
 
-python
-Copy code
+
 delete_record(1)
