@@ -20,7 +20,8 @@ Usage
 
 1) Clone the repository:
 
-git clone https://github.com/yashchoudhary8955/user-registration-crud.py
+curl -O https://raw.githubusercontent.com/yashchoudhary8955/SQL-test/main/user_registration_crud.py
+
 
 
 cd user-registration-crud
