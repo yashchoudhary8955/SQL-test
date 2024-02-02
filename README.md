@@ -20,7 +20,7 @@ Usage
 
 1) Clone the repository:
 
-git clone https://github.com/yashchoudhary8955/user-registration-crud.git
+git clone https://github.com/yashchoudhary8955/user-registration-crud.py
 
 
 cd user-registration-crud
